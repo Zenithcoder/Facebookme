@@ -1,0 +1,14 @@
+{
+    "name": "zenithcoder/facebook",
+    "description": "this is a simple package for laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Awonusi",
+            "email": "awonusiolajide@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
